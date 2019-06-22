@@ -69,5 +69,5 @@ Identifying the busiest stations in order to decide how many bikes we need to ke
 
 Print and save as PDF.
 
-![Dashboard](images/UserbyAge.PNG)
+![Dashboard](images/Dashboard.PNG)
 
